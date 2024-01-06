@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_is_leaf - checks if a node is a leaf
- * node: a pointer to the node to be checked
+ * @node: a pointer to the node to be checked
  * Return: 1 if leaf, otherwise 0
  */
 
